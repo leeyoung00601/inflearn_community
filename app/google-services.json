@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619187830141",
+    "project_id": "sololife-9dc52",
+    "storage_bucket": "sololife-9dc52.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619187830141:android:edd11e94fc6490a8212014",
+        "android_client_info": {
+          "package_name": "youngtaek.mysolelife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSHk7zoiMJShB55IHfY3QUIJCnBgH0K6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
